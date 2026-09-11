@@ -1,0 +1,24 @@
+GITHUB SUBMISSION
+
+1. Create a public GitHub repository, e.g. unsupervised-learning-kmeans-pca.
+2. Upload ALL files and the outputs folder from this project.
+3. Make sure README.md is visible in the repository root.
+4. Copy the public repository URL.
+5. Paste that URL into the internship task submission box.
+
+Example repository structure:
+
+unsupervised-learning-kmeans-pca/
+├── README.md
+├── requirements.txt
+├── unsupervised_learning.py
+├── iris_unlabeled.csv
+├── clustered_iris.csv
+├── SUBMISSION_GUIDE.txt
+└── outputs/
+    ├── elbow_plot.png
+    ├── silhouette_plot.png
+    ├── pca_clusters.png
+    ├── pca_explained_variance.csv
+    ├── cluster_feature_means.csv
+    └── k_selection_metrics.csv
